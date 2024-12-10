@@ -1,0 +1,12 @@
+.title {
+    font-size: 40px;
+    font-weight: bolder;
+    color: pink;
+    text-align: center;
+    background-color: yellow;
+}
+
+.recipes {
+    font-size: 24px;
+    color: lightgreen;
+}
