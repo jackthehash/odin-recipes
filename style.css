@@ -4,9 +4,15 @@
     color: pink;
     text-align: center;
     background-color: yellow;
+    padding: 8px;
+    width: fit-content;
+    margin: 8px auto;
 }
 
 .recipes {
     font-size: 24px;
-    color: lightgreen;
+    background-color: palegreen;
+    padding: 8px;
+    margin: 8px 0;
+    width: fit-content;
 }
